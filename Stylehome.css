@@ -1,0 +1,86 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+}
+.baner
+{
+    background-image: linear-gradient(120deg, #4160eb 0%, #131036 80%);
+    text-align: center;
+    font-family:fantasy;
+    font-size: 1.2em
+}
+
+h2
+{
+    font-family: fantasy;
+    color:cornsilk
+}
+a:visited
+{
+    color:rgb(255, 255, 255);
+}
+.iralhome
+{
+    font-size: 2em;
+    
+}
+
+a:start
+{
+    color: rgb(255, 255, 255);
+}
+
+.siosialhome
+{
+    text-align: center;
+}
+.iralhome
+{
+    text-align: center;
+    
+}
+.contactanos
+{
+    background-image: linear-gradient(120deg, #74c6ec46 0%, #c9fcfc94 80%);
+}
+
+nav
+{
+    background-image: linear-gradient(120deg, #4a6975 0%, #71c0c0 80%);
+    padding: 1em;
+}
+nav ul li
+{
+    display: inline;
+    
+}
+body
+{
+    background-image: linear-gradient(120deg, #74c6ec 0%, #c9fcfc 80%);
+
+}
+
+.mapita
+{
+    text-align: center;
+    ;
+    
+}
+.contactanos
+{
+ text-align: center;
+ font-family: fantasy;
+ font-size:2em;
+ padding: 1em;
+}
+
+.descripcion
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2em;
+    margin-top: 1em;
+
+
+}
+
